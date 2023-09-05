@@ -1,0 +1,4 @@
+finance.db*
+errors/
+.env
+*-local.py
